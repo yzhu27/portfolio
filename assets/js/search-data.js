@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -145,7 +145,7 @@ ninja.data = [{
               window.location.href = "/projects/jingxiaozhi-ai-customer-service-system/";
             },},{id: "projects-maintaining-my-1993-mazda-miata",
           title: 'Maintaining My 1993 Mazda Miata',
-          description: "Documenting the upkeep of a classic NA Miata with repair logs and photos",
+          description: "Miata Is Always The Answer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/maintaining-1993-mazda-miata/";
             },},{id: "projects-on-the-fly-coding-of-vision-inputs-for-evidence-preserving-perception",
@@ -160,7 +160,7 @@ ninja.data = [{
               window.location.href = "/projects/unit-price-helper/";
             },},{id: "projects-wolfbite-bot",
           title: 'WolfBite-bot',
-          description: "Telegram bot that scrapes NC State dining menus for labmates",
+          description: "Telegram bot that scrapes NC State dining menus for my PhD colleagues",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wolfbite-bot/";
             },},{
