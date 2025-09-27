@@ -6,7 +6,7 @@ importance: 2
 category: work
 ---
 
-This research prototype ships an evidence-preserving perception stack for autonomous driving platforms at North Carolina State University (2023-2024).
+This research prototype ships an evidence-preserving perception stack for autonomous driving platforms.
 
 ### Highlights
 

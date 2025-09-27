@@ -1,24 +1,13 @@
 ---
 layout: page
 title: Maintaining My 1993 Mazda Miata
-description: Documenting the upkeep of a classic NA Miata with repair logs and photos
+description: Miata Is Always The Answer
 importance: 3
 category: fun
 img: assets/img/posts/miata.png
 ---
 
 Owning a 1993 Mazda Miata means wrenching almost as often as driving. This project collects the running maintenance log, photos, and reflections that keep the car on the road throughout graduate school.
-
-### Photo Gallery TODO
-
-Add high-resolution images in `assets/img/projects/miata/` to accompany each milestone:
-
-- `![AC repair reassembly](assets/img/projects/miata/2025-04-13-ac-repair.jpg)`
-- `![New soft top installed](assets/img/projects/miata/2025-04-20-soft-top.jpg)`
-- `![Fresh battery swap](assets/img/projects/miata/2025-03-16-battery.jpg)`
-- `![Post-internship shakedown](assets/img/projects/miata/2025-09-24-ac-diagnosis.jpg)`
-
-Replace the placeholder paths with real photos once uploaded.
 
 ### Maintenance Log
 

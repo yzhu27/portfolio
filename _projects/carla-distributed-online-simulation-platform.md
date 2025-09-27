@@ -6,7 +6,7 @@ importance: 3
 category: work
 ---
 
-Built at Southern University of Science and Technology (2021-2022), this platform lets researchers drive Carla simulations from a browser without owning local GPUs.
+Built at Prof. Qi Hao's group, SUSTech (2021-2022), this platform lets researchers drive Carla simulations from a browser without owning local GPUs.
 
 ### Highlights
 
