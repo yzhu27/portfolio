@@ -1,12 +1,18 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: I have served as a teaching assistant for multiple courses at NCSU, covering topics such as operating systems, autonomous driving, and unmanned systems.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Teaching Assistantships
 
-Organize your courses by years, topics, or universities, however you like!
+##### North Carolina State University
+
+- **CSC 246 Operating Systems** — Teaching Assistant  
+  - Spring 2025 
+  - Fall 2025
+- **CSC 495 Self-Driving Cars: Theory and Practice** — Teaching Assistant  
+  - Spring 2024

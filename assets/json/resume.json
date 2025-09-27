@@ -4,7 +4,7 @@
     "label": "Ph.D. Student",
     "email": "yzhu63@ncsu.edu",
     "url": "https://yuhengzhu.me",
-    "summary": "Ph.D. student in Computer Science at North Carolina State University focusing on autonomous driving, sensor perception, and trustworthy systems.",
+    "summary": "Ph.D. student in Computer Science at North Carolina State University.",
     "location": {
       "city": "Raleigh",
       "region": "North Carolina",
@@ -31,11 +31,11 @@
   "work": [
     {
       "name": "Qualcomm",
-      "position": "Engineer Intern, Automotive IVI/ADAS (Incoming)",
+      "position": "Engineer Intern, Automotive IVI/ADAS",
       "location": "San Diego, CA",
-      "startDate": "2025-06-01",
-      "endDate": "2025-08-31",
-      "summary": "Will join the Automotive IVI/ADAS team as an engineer intern."
+      "startDate": "2025-06-16",
+      "endDate": "2025-08-29",
+      "summary": "Built an agentic RAG-driven failure triage pipeline processing 10K+ IVI/ADAS tests per day, blending LLM log summarization with LangChain, ChromaDB, and FAISS to deliver structured diagnostics for the Automotive IVI/ADAS team."
     },
     {
       "name": "North Carolina State University",
@@ -43,31 +43,7 @@
       "location": "Raleigh, NC",
       "startDate": "2023-09-01",
       "endDate": "2024-12-31",
-      "summary": "Conducted research on autonomous driving perception and trustworthy systems with Dr. Man-Ki Yoon."
-    },
-    {
-      "name": "North Carolina State University",
-      "position": "Teaching Assistant",
-      "location": "Raleigh, NC",
-      "startDate": "2025-01-01",
-      "endDate": "2025-05-31",
-      "summary": "CSC 246 Concepts and Facilities of Operating Systems."
-    },
-    {
-      "name": "North Carolina State University",
-      "position": "Teaching Assistant",
-      "location": "Raleigh, NC",
-      "startDate": "2024-01-08",
-      "endDate": "2024-05-31",
-      "summary": "CSC 495 Self-Driving Cars: Theory and Practice."
-    },
-    {
-      "name": "North Carolina State University",
-      "position": "Teaching Assistant",
-      "location": "Raleigh, NC",
-      "startDate": "2023-01-09",
-      "endDate": "2023-05-31",
-      "summary": "CSC 246 Concepts and Facilities of Operating Systems."
+      "summary": "Designed evidence-preserving perception middleware for autonomous driving, pairing JPEG and H.264 pipelines with NVENC/NVDEC acceleration and V4L2 capture while advancing trustworthy active-learning research for edge autonomy."
     },
     {
       "name": "Southern University of Science and Technology",
@@ -75,7 +51,7 @@
       "location": "Shenzhen, China",
       "startDate": "2021-09-01",
       "endDate": "2022-06-30",
-      "summary": "Worked with Prof. Qi Hao on computer vision for intelligent transportation."
+      "summary": "Engineered a Carla-based remote simulation platform with an HTTP streaming backend for ROS sensor data, enabling multi-codec delivery and cutting remote driving latency from seconds to 50 ms using Python Flask, FFmpeg, and Docker."
     },
     {
       "name": "JD.com — Jingdong AI Research Center",
@@ -83,7 +59,7 @@
       "location": "Beijing, China",
       "startDate": "2020-06-01",
       "endDate": "2020-08-31",
-      "summary": "Developed software components for intelligent transportation systems."
+      "summary": "Implemented Java-based automated testing atop the JD JSF RPC framework for the Jingxiaozhi AI customer service system, reaching 100% API coverage and informing NLP feature deployments across two production cycles."
     }
   ],
   "education": [
@@ -92,8 +68,9 @@
       "location": "Raleigh, NC",
       "area": "Computer Science",
       "studyType": "Ph.D.",
+      "startDate": "2024-08-15",
       "endDate": null,
-      "score": "",
+      "score": "3.97",
       "courses": [],
       "notes": "Expected completion in 2029; advised by Dr. Man-Ki Yoon."
     },
@@ -102,32 +79,31 @@
       "location": "Raleigh, NC",
       "area": "Computer Science",
       "studyType": "M.S.",
+      "startDate": "2022-08-15",
       "endDate": "2024-05-01",
-      "score": "",
+      "score": "4.0",
       "courses": []
     },
     {
       "institution": "Southern University of Science and Technology",
       "location": "Shenzhen, China",
-      "area": "Computer Science",
+      "area": "Computer Science and Technology",
       "studyType": "B.E.",
+      "startDate": "2017-09-01",
       "endDate": "2021-06-30",
-      "score": "",
-      "courses": [
-        "Outstanding Undergraduate Thesis: A Fisheye Camera-Based Large Construction Vehicle Blind-spot Warning System"
-      ]
+      "score": ""
     }
   ],
   "awards": [
     {
       "title": "Outstanding Undergraduate Thesis",
-      "date": "2021-06-01",
+      "date": "2021-06",
       "awarder": "Southern University of Science and Technology",
-      "summary": "Recognized for the thesis \"A Fisheye Camera-Based Large Construction Vehicle Blind-spot Warning System\" supervised by Prof. Qi Hao."
+      "summary": "A Fisheye Camera-Based Large Construction Vehicle Blind-spot Warning System"
     },
     {
       "title": "Meritorious Prize",
-      "date": "2019-03-01",
+      "date": "2019-03",
       "awarder": "COMAP's Mathematical Contest in Modeling",
       "summary": "Meritorious Prize in the international MCM competition."
     }
@@ -135,47 +111,88 @@
   "certificates": [],
   "publications": [
     {
+      "name": "FrameScope: Temporal Data Valuation for Stream Active Learning in Autonomous Vehicle Systems",
+      "publisher": "2025 ACM/IEEE Symposium on Edge Computing (SEC)",
+      "releaseDate": "2025-12-06"
+    },
+    {
+      "name": "Bridging Data and Knowledge: A Neurosymbolic Framework for Reliable Network Analysis",
+      "publisher": "2025 IEEE Global Communications Conference (Globecom)",
+      "releaseDate": "2025-12-10"
+    },
+    {
       "name": "AdaptAV: Continuous Adaption of Vision Models for Autonomous Vehicles Using Cloud-based Oracle",
       "publisher": "IEEE Vehicular Technology Conference (VTC) 2024-Fall",
       "releaseDate": "2024-10-07",
-      "url": "https://ieeexplore.ieee.org/abstract/document/10757493",
-      "summary": "Introduces a cloud-assisted framework that continuously adapts autonomous driving perception models deployed on vehicles."
+      "url": "https://ieeexplore.ieee.org/abstract/document/10757493"
     }
   ],
   "skills": [
     {
-      "name": "Autonomous Driving",
-      "level": "Advanced",
+      "name": "Programming Languages",
       "keywords": [
-        "Perception Models",
+        "C",
+        "C++",
+        "Python",
+        "Shell",
+        "Java",
+        "JavaScript",
+        "Lua"
+      ]
+    },
+    {
+      "name": "Autonomous Systems & Robotics",
+      "keywords": [
         "Sensor Fusion",
-        "Trustworthy ML"
+        "ADAS",
+        "ROS2",
+        "Carla Simulator"
       ]
-    }
-  ],
-  "languages": [],
-  "interests": [
+    },
     {
-      "name": "Sensor Perception",
+      "name": "Machine Learning & Data Intelligence",
       "keywords": [
-        "Computer Vision",
-        "LiDAR Processing",
-        "Robustness"
+        "Active Learning",
+        "LLM Agents",
+        "LangChain",
+        "ChromaDB",
+        "FAISS",
+        "Vector Retrieval"
+      ]
+    },
+    {
+      "name": "Systems & DevOps",
+      "keywords": [
+        "Linux",
+        "Docker",
+        "Ansible",
+        "Git",
+        "RESTful APIs",
+        "RabbitMQ",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Multimedia & GPU Acceleration",
+      "keywords": [
+        "FFmpeg",
+        "NVENC/NVDEC",
+        "NVIDIA Jetpack",
+        "CUDA",
+        "TensorRT",
+        "Video Streaming"
       ]
     }
   ],
-  "references": [],
-  "projects": [
+  "languages": [
     {
-      "name": "AdaptAV",
-      "summary": "Continuous adaptation pipeline that leverages cloud resources to improve on-vehicle vision models for autonomous driving.",
-      "highlights": [
-        "Cloud-orchestrated retraining",
-        "Latency-aware deployment"
-      ],
-      "startDate": "2024-01-01",
-      "endDate": "2024-10-07",
-      "url": "https://ieeexplore.ieee.org/abstract/document/10757493"
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Chinese (Mandarin)",
+      "fluency": "Native"
     }
   ]
+
 }

@@ -1,3 +1,10 @@
 "VTC":
   url: https://events.vtsociety.org/vtc2024-fall/
   color: "#CC0000"
+"SEC":
+  url: https://acm-ieee-sec.org/2025/
+  color: "#CC0000"
+
+"GlobeCom":
+  url: https://globecom2025.ieee-globecom.org/
+  color: "#CC0000"
