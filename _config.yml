@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: ["autonomous driving", "sensor perception", "trustworthy systems", "machine learning", "computer science"]
-lang: en, zh
+lang: en, zh-CN
 icon: 🕹️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yuhengzhu.me # the base hostname & protocol for your site
@@ -102,12 +102,12 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
+  repo: yzhu27/portfolio # <your-github-user-name>/<your-github-repo-name>
+  repo_id: R_kgDOP3Jo9w # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
-  category_id: # leave empty or specify your category_id (see https://giscus.app/)
+  category_id: DIC_kwDOP3Jo984Cv8r_ # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
-  strict: 1 # use strict identification mode
+  strict: 0 # use strict identification mode
   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
   dark_theme: dark # name of the dark color scheme (preferred works well with al-folio dark mode)
