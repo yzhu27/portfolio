@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-miata-ac-diagnostics-wip",
+        },{id: "post-a-weekend-lost-to-a-strange-bug",
+        
+          title: "A Weekend Lost to a Strange Bug",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/cpu-issue-debug/";
+          
+        },
+      },{id: "post-miata-ac-diagnostics-wip",
         
           title: "Miata AC Diagnostics (WIP)",
         
