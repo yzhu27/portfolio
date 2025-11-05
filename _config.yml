@@ -15,7 +15,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: ["autonomous driving", "sensor perception", "trustworthy systems", "machine learning", "computer science"]
-lang: en, cn
+lang: en
 icon: 🕹️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yuhengzhu.me # the base hostname & protocol for your site
