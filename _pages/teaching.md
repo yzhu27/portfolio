@@ -11,8 +11,9 @@ nav_order: 5
 
 ##### North Carolina State University
 
-- **CSC 246 Operating Systems** — Teaching Assistant  
-  - Spring 2025 
+- **CSC 246 Operating Systems** — Teaching Assistant
+  - Spring 2023
+  - Spring 2025
   - Fall 2025
-- **CSC 495 Self-Driving Cars: Theory and Practice** — Teaching Assistant  
+- **CSC 495 Self-Driving Cars: Theory and Practice** — Teaching Assistant
   - Spring 2024

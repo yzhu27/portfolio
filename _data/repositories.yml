@@ -1,8 +1,6 @@
 github_users:
   - yzhu27
 
-repo_description_lines_max: 2
-
 github_repos:
   - yzhu27/UnitPriceHelper
   - yzhu27/WolfBite-bot
