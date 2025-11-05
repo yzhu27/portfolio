@@ -51,15 +51,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-weekend-lost-to-a-strange-bug",
+        },{id: "post-",
         
-          title: "A Weekend Lost to a Strange Bug",
+          title: "",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/cpu-issue-debug/";
+            window.location.href = "/blog/2025/2025-11-04-cpu-issue-debug/";
           
         },
       },{id: "post-miata-ac-diagnostics-wip",
