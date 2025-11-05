@@ -130,58 +130,23 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "C",
-        "C++",
-        "Python",
-        "Shell",
-        "Java",
-        "JavaScript",
-        "Lua"
-      ]
+      "keywords": ["C", "C++", "Python", "Shell", "Java", "JavaScript", "Lua"]
     },
     {
       "name": "Autonomous Systems & Robotics",
-      "keywords": [
-        "Sensor Fusion",
-        "ADAS",
-        "ROS2",
-        "Carla Simulator"
-      ]
+      "keywords": ["Sensor Fusion", "ADAS", "ROS2", "Carla Simulator"]
     },
     {
       "name": "Machine Learning & Data Intelligence",
-      "keywords": [
-        "Active Learning",
-        "LLM Agents",
-        "LangChain",
-        "ChromaDB",
-        "FAISS",
-        "Vector Retrieval"
-      ]
+      "keywords": ["Active Learning", "LLM Agents", "LangChain", "ChromaDB", "FAISS", "Vector Retrieval"]
     },
     {
       "name": "Systems & DevOps",
-      "keywords": [
-        "Linux",
-        "Docker",
-        "Ansible",
-        "Git",
-        "RESTful APIs",
-        "RabbitMQ",
-        "Redis"
-      ]
+      "keywords": ["Linux", "Docker", "Ansible", "Git", "RESTful APIs", "RabbitMQ", "Redis"]
     },
     {
       "name": "Multimedia & GPU Acceleration",
-      "keywords": [
-        "FFmpeg",
-        "NVENC/NVDEC",
-        "NVIDIA Jetpack",
-        "CUDA",
-        "TensorRT",
-        "Video Streaming"
-      ]
+      "keywords": ["FFmpeg", "NVENC/NVDEC", "NVIDIA Jetpack", "CUDA", "TensorRT", "Video Streaming"]
     }
   ],
   "languages": [
@@ -194,5 +159,4 @@
       "fluency": "Native"
     }
   ]
-
 }

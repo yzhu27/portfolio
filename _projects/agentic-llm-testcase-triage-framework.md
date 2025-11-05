@@ -16,4 +16,3 @@ During my 2025 internship with Qualcomm's Automotive IVI/ADAS team, I designed a
 - Consolidated multi-source IVI/ADAS logs into concise error narratives using large-language-model summarization seeded with error-anchor context windows.
 - Indexed structured traces inside ChromaDB/FAISS to enable hybrid semantic + keyword retrieval that surfaces the most relevant comparator incidents.
 - Coordinated LangChain agents, function-calling tools, and JSON-schema emitters so downstream dashboards receive machine-actionable diagnostics within minutes of test completion.
-

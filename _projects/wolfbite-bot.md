@@ -8,7 +8,9 @@ links:
   - label: GitHub Repository
     url: https://github.com/yzhu27/WolfBite-bot
 ---
+
 #### [WolfBite Bot](https://github.com/yzhu27/WolfBite-bot)
+
 Most days, campus dining is a gamble. To avoid walking, taking a bus, then walking, all the way to the fountain only to discover that “Chef’s Surprise” is… surprising. Thus I built WolfBite, a Telegram bot that tells you what’s actually being served before you head to the hall.
 
 In a group chat, you simply @ the bot, pick a dining hall and meal period, and it fetches the day’s menu straight from NC State Dining’s website, parses the results, and replies with a clean, readable list. Since the halls occasionally invent dishes whose names look like Scrabble dumps, I added an optional OpenAI API-powered translation step to render those items into other languages (with a emoji!),super handy for non-native speakers.

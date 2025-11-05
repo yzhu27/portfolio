@@ -13,4 +13,3 @@ This research prototype ships an evidence-preserving perception stack for autono
 - Designed a capture-to-storage pipeline that records every camera frame alongside derived metadata so perception experiments remain reproducible.
 - Applied adaptive JPEG and H.264 compression balanced by scene entropy, then offloaded encoding to NVENC/NVDEC engines to maintain real-time throughput on Jetson-class hardware.
 - Exposed V4L2- and ROS-friendly interfaces so downstream autonomy modules can replay ground-truth sequences without format conversions.
-

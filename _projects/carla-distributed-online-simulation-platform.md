@@ -13,4 +13,3 @@ Built at Prof. Qi Hao's group, SUSTech (2021-2022), this platform lets researche
 - Delivered an HTTP streaming backend that forwards ROS image topics and Carla sensor feeds using HLS/WebRTC profiles, driving latency down from 1-2 seconds to ~50 ms.
 - Automated environment provisioning with Ansible and Docker so instructors can spin up sandboxed lab instances on demand.
 - Implemented session-aware access control and bandwidth monitoring to keep multi-user classes responsive during peak hours.
-
