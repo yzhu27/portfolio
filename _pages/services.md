@@ -11,8 +11,6 @@ nav_order: 6
 
 - **VTC2024Fall**
   - Reviewer
-
 - **VTC2025Spring**
   - Technical Program Committee
   - Reviewer
-
