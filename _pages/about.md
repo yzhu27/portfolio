@@ -6,7 +6,7 @@ subtitle: Ph.D. Student · Department of Computer Science · North Carolina Stat
 
 profile:
   align: right
-  image: profile.png
+  image: avatar.jpg
   image_circular: true
   more_info: >
 
