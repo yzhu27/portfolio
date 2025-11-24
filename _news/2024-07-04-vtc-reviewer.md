@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serving as a reviewer for the 101st IEEE Vehicular Technology Conference (VTC 2024 Fall).
+Serving as a reviewer for the 100th IEEE Vehicular Technology Conference (VTC 2024 Fall).

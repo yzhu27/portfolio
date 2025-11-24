@@ -9,8 +9,10 @@ nav_order: 6
 
 ### Services
 
-- **VTC2024Fall**
+- **the 100th IEEE Vehicular Technology Conference**
   - Reviewer
-- **VTC2025Spring**
+- **the 101st IEEE Vehicular Technology Conference**
   - Technical Program Committee
+  - Reviewer
+- **the 37th IEEE Intelligent Vehicles Symposium**
   - Reviewer
