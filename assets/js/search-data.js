@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "I have served as a teaching assistant for multiple courses at NCSU, covering topics such as operating systems, autonomous driving, and unmanned systems.",
+          description: "I have served as a teaching assistant for multiple courses at NCSU, covering topics such as operating systems, autonomous driving and unmanned systems.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -154,6 +154,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-have-been-awarded-the-student-travel-grant-award-from-the-acm-ieee-symposium-on-edge-computing",
           title: 'I have been awarded the Student Travel Grant Award from the ACM/IEEE Symposium...',
+          description: "",
+          section: "News",},{id: "news-our-paper-rinneformer-transformer-based-real-world-cooperative-perception-algorithm-is-accepted-by-ieee-intelligent-vehicles-symposium-iv-2026",
+          title: 'Our paper “RinneFormer: Transformer-based Real-world Cooperative Perception Algorithm” is accepted by IEEE Intelligent...',
           description: "",
           section: "News",},{id: "projects-agentic-llm-testcase-triage-framework",
           title: 'Agentic LLM Testcase Triage Framework',
