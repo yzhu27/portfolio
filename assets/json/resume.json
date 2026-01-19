@@ -111,9 +111,15 @@
   "certificates": [],
   "publications": [
     {
+      "name": "RinneFormer: Transformer-based Real-world Cooperative Perception Algorithm",
+      "publisher": "2026 IEEE Intelligent Vehicles Symposium (IV)",
+      "releaseDate": "2026-06-25"
+    },
+    {
       "name": "FrameScope: Temporal Data Valuation for Stream Active Learning in Autonomous Vehicle Systems",
       "publisher": "2025 ACM/IEEE Symposium on Edge Computing (SEC)",
-      "releaseDate": "2025-12-06"
+      "releaseDate": "2025-12-06",
+      "url": "https://dl.acm.org/doi/10.1145/3769102.3770611"
     },
     {
       "name": "Bridging Data and Knowledge: A Neurosymbolic Framework for Reliable Network Analysis",

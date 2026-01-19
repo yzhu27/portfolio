@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I have served as a teaching assistant for multiple courses at NCSU, covering topics such as operating systems, autonomous driving, and unmanned systems.
+description: I have served as a teaching assistant for multiple courses at NCSU, covering topics such as operating systems, autonomous driving and unmanned systems.
 nav: true
 nav_order: 5
 ---
@@ -15,5 +15,6 @@ nav_order: 5
   - Spring 2023
   - Spring 2025
   - Fall 2025
+  - Spring 2026
 - **CSC 495 Self-Driving Cars: Theory and Practice** — Teaching Assistant
   - Spring 2024

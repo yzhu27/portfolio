@@ -69,11 +69,22 @@
   type: time_table
   contents:
     - title: "AdaptAV: Continuous Adaption of Vision Models for Autonomous Vehicles Using Cloud-based Oracle"
-      institution: IEEE Vehicular Technology Conference (VTC) 2024-Fall
+      institution: The 100th IEEE Vehicular Technology Conference (VTC2024-Fall)
       year: 2024
       description:
-        - Y. Zhu, et al.
-        - doi: https://ieeexplore.ieee.org/abstract/document/10757493
+        - Zhu, Yuheng and Ungrupulithaya, Dhruva and Ge, Boluo and Yoon, Man-Ki
+        - url: https://ieeexplore.ieee.org/abstract/document/10757493
+    - title: "FrameScope: Temporal Data Valuation for Stream Active Learning in Autonomous Vehicle Systems"
+      institution: The 10th ACM/IEEE Symposium on Edge Computing (SEC)
+      year: 2025
+      description:
+        - Zhu, Yuheng and Yoon, Man-Ki
+        - url: https://dl.acm.org/doi/10.1145/3769102.3770611
+    - title: "Bridging Data and Knowledge: A Neurosymbolic Framework for Reliable Network Analysis"
+      institution: 2025 IEEE Global Communications Conference (GlobeCom)
+      year: 2024
+      description:
+        - Yang, Zhijin and Zhu, Yuheng and Chen, Mingzhe and Liu, Yuchen
 
 - title: Teaching
   type: time_table
