@@ -51,13 +51,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/services/";
           },
-        },{id: "nav-blog",
-          title: "Blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
         },{id: "post-how-a-mysterious-webpage-malfunction-wasted-my-weekend",
         
           title: "How a Mysterious Webpage Malfunction Wasted My Weekend",
@@ -157,6 +150,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-rinneformer-transformer-based-real-world-cooperative-perception-algorithm-is-accepted-by-ieee-intelligent-vehicles-symposium-iv-2026",
           title: 'Our paper “RinneFormer: Transformer-based Real-world Cooperative Perception Algorithm” is accepted by IEEE Intelligent...',
+          description: "",
+          section: "News",},{id: "news-i-begin-working-at-waymo-llc-mountain-view-ca-on-the-perception-team-as-a-technical-intern",
+          title: 'I begin working at Waymo LLC (Mountain View, CA) on the Perception team...',
           description: "",
           section: "News",},{id: "projects-agentic-llm-testcase-triage-framework",
           title: 'Agentic LLM Testcase Triage Framework',
