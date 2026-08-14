@@ -30,6 +30,14 @@
   },
   "work": [
     {
+      "name": "Waymo",
+      "position": "Machine Learning Engineer Intern, Perception",
+      "location": "Mountain View, CA",
+      "startDate": "2026-05-11",
+      "endDate": "2025-08-14",
+      "summary": "Designed and implemented an E2E learnable-association model for 3D multi-object detection and tracking, built the full detection-to-tracking pipeline in JAX from perception backbone through association to track management. Built a multi-frame parallel scheme with fully compilable static-shape to boost training and inference efficiency, injected 3D geometric priors into the association module for robust matching, exploring the performance and efficiency of next-generation perception world models for autonomous driving."
+    },
+    {
       "name": "Qualcomm",
       "position": "Engineer Intern, Automotive IVI/ADAS",
       "location": "San Diego, CA",
