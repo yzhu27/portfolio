@@ -24,7 +24,7 @@ latest_posts:
 
 Hi! I am Yuheng Zhu, a Ph.D. student in the Department of Computer Science at North Carolina State University. My research focuses on autonomous driving, sensor perception, and trustworthy systems. I am fortunate to be advised by Dr. [Man-Ki Yoon](https://mankiyoon.github.io/).
 
-In summer 2026, I interned with Waymo's Perception - Tracker team, developing an end-to-end multi-object detection and tracking model.
+In Summer 2026, I interned with Waymo's Perception - Tracker team, developing an end-to-end multi-object detection and tracking model.
 
 In Summer 2025, I interned with Qualcomm’s Automotive IVI/ADAS team, developing agentic-AI workflows for autonomous system evaluation.
 
