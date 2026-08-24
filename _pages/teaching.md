@@ -16,5 +16,6 @@ nav_order: 5
   - Spring 2025
   - Fall 2025
   - Spring 2026
+  - Fall 2026
 - **CSC 495 Self-Driving Cars: Theory and Practice** — Teaching Assistant
   - Spring 2024
